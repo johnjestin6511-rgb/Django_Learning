@@ -1,0 +1,41 @@
+body {
+    background-color:#b0e0e6;
+}
+
+div {
+    background-color: #fffca5;
+}
+h1 {
+    border: 1px solid black;
+}
+
+h2 {
+    color: #800080;
+}
+
+#liOne {
+    color: #800080;
+    text-decoration: overline;
+}
+
+li a {
+    color: red;
+}
+
+#blogtext {
+    border: #808080 5px solid;
+    width: 800px;
+    height: 400px;
+}
+input {
+    border:2px solid rgb(144, 0, 0);
+}
+
+.exit{
+    background-color: blue;
+    border: 4px dashed yellow;
+}
+
+div p {
+    background-color: #fffca5;
+}

@@ -1,0 +1,21 @@
+body {
+    /* background-color: yellow; */
+    background: url(https://www.animationmagazine.net/wordpress/wp-content/uploads/Jujutsu-Kaisen-6.jpg);
+    background-size: cover;
+}
+
+h1 {
+    color: blue;
+}
+
+div {
+    background: green;
+    border-color: aqua;
+    border-width: 20px;
+    border-style: double;
+}
+
+span {
+    background: rebeccapurple;
+    color: wheat;
+}

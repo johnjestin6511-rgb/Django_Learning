@@ -1,0 +1,24 @@
+/* This is the commemts in CSS file */
+
+h1 {
+    color: red;
+}
+
+p {
+    color: #03fc0f ;
+}
+
+li {
+    color: rgb(42, 17, 115);
+}
+
+/* rgba stands for Red, Green, Blue, Alpha. It’s a way to define colors in CSS using:
+
+Red (0–255)
+Green (0–255)
+Blue (0–255)
+Alpha (0–1), which controls transparency (1 is fully opaque, 0 is fully transparent). */
+
+h4 {
+    color: rgba(120, 18, 88, 0.8);
+}
